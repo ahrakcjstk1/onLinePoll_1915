@@ -1,4 +1,4 @@
-<!-- 10. 입력 화면을 설계해 구현할 pollRead.jsp를 만든다. -->
+<!-- 10. 입력 화면을 설계해 구현할 pollRead.jsp를 만든다. 첫줄체 연필표시 눌러서  -->
 <%@page import="kr.tjoeun.onLinePoll.PollRead"%>
 <%@page import="java.util.ArrayList"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
