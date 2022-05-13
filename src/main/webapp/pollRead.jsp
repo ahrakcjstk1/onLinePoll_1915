@@ -1,4 +1,4 @@
-<!-- 10. 입력 화면을 설계해 구현할 pollRead.jsp를 만든다. 첫줄체 연필표시 눌러서 ,,,,브랜치를 마스터로 하면 최종 권한자여서 바로 바뀜. 팀원들은 자기가 브랜치 만들서서 수정하면됨 -->
+<!-- 10. 입력 화면을 설계해 구현할 pollRead.jsp를 만든다. 첫줄체 연필표시 눌러서!,,브랜치를 마스터로 하면 최종 권한자여서 바로 바뀜. 팀원들은 자기가 브랜치 만들서서 수정하면됨 -->
 <%@page import="kr.tjoeun.onLinePoll.PollRead"%>
 <%@page import="java.util.ArrayList"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
